@@ -1,0 +1,24 @@
+header{
+/* background-color: antiquewhite; */
+height:45rem;
+background-image: url(../../assets/img2.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+}
+ header .row .left-side{
+  margin-top: 15rem;
+  color: white;
+ }
+ h1{
+  font-size: 50px;
+ }
+ header .row .left-side p{
+  font-size: 25px;
+ }
+
+ header .row .left-side button{
+  border: 2px solid white;
+  background-color: transparent;
+  color: white;
+  width: 10rem;
+ }

@@ -1,0 +1,20 @@
+h2{
+  font-size: 48px;
+  text-shadow: rgba(0, 0, 0, 0.713) 3px 3px 3px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.722);
+  /* font-weight: bold; */
+}
+
+button{
+  background-color: black;
+  color: gainsboro;
+  font-weight: bold;
+  width: 200px;
+  padding: 5px;
+  font-size: 20px;
+}
