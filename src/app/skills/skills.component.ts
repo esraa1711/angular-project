@@ -7,4 +7,30 @@ import { Component } from '@angular/core';
 })
 export class SkillsComponent {
 
+
+Arr : any[]
+constructor(){
+  this.Arr =[
+    {
+      skill: "html" ,
+      value:50
+    },
+
+    {
+      skill: "css",
+      value:20
+    },
+    {
+      skill: "js",
+      value:70
+    },
+    {
+      skill: "bootstrap",
+      value:40
+    }
+
+  ]
+
+}
+
 }
